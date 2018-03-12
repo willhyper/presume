@@ -1,6 +1,10 @@
 # presume
 decorator handling exception.
+```
+pip install presume
+```
 
+## explain
 ```python
 from presume import presume, then
 
